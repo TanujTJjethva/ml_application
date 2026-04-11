@@ -1,0 +1,12 @@
+#stockSelect {
+   border-color: rgb(8, 111, 255);
+   border-width: 2px;
+}
+
+.container {
+   cursor: pointer;
+}
+
+#CompareData {
+   overflow: scroll;
+}
